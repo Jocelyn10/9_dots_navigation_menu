@@ -1,6 +1,6 @@
-## SENEVE NETWORK
+## 9 DOTS MENU NAVIGATION
 
-> Seneve Network is a non-profit organization whose vision is to enable the Congolese to become a resource person for the community using biblical principles.
+> This is a small project which show smooth and beautifull animation on click 9 dots.
 
 ## Tools
 
