@@ -2,6 +2,14 @@
 
 > This is a small project which show smooth and beautifull animation on click 9 dots.
 
+## Preview
+
+> Before
+![Screenshot](before.png)
+
+> After
+![Screenshot](after.png)
+
 ## Tools
 
 - HTML5
