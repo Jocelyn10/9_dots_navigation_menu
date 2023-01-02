@@ -5,10 +5,10 @@
 ## Preview
 
 > Before
-![Screenshot](before.png)
+![Screenshot](before.PNG)
 
 > After
-![Screenshot](after.png)
+![Screenshot](after.PNG)
 
 ## Tools
 
