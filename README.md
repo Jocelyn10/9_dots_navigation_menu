@@ -4,10 +4,8 @@
 
 ## Preview
 
-Before
 ![Screenshot](before.PNG)
 
-After
 ![Screenshot](after.PNG)
 
 ## Tools
